@@ -1,37 +1,34 @@
-### Hi there,<br/>my name is Kamil Sohlich 🐱
+# Hi there,<br/>my name is Kamil Sohlich 🐱
+- 🇪🇺 I am a young programmer from Europe
+- 🎉 My goal for 2022 is to learn Go. So let's go!
+- 💥 Fun fact: I was a music teacher
 
-### 📞 Contact me through my
-[FaceBook](https://www.google.com)
-[Linkedin](https://www.linkedin.com/in/kamil-sohlich-127653218)
-[Pracuj](https://profil.pracuj.pl)
-[E-mail](mailto:kamilsohlich@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-
-### 👜 Some of my technical skills
-![](https://img.shields.io/badge/Code-VUE_3.0-informational?style=flat&logo=javascript&color=61DAFB)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=61DAFB)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=61DAFB)
+## 👜 Some of my technical skills
+![](https://img.shields.io/badge/Code-VUE_3.0-informational?style=flat&logo=javascript&color=yellow)
+![](https://img.shields.io/badge/Code-VUEX-informational?style=flat&color=yellow)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=red)
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=61DAFB)
-![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=style&color=61DAFB)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&color=61DAFB)
+![](https://img.shields.io/badge/Style-VUEXY-informational?style=flat&color=blue)
+![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=style&color=white)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&color=white)
 
-![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=npm&color=61DAFB)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=61DAFB)
-![](https://img.shields.io/badge/Tool-Adobe_XD-informational?style=flat&logo=adobexd&color=61DAFB)
+![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=npm&color=red)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=red)
+![](https://img.shields.io/badge/Tool-Adobe_XD-informational?style=flat&logo=adobexd&color=purple)
+![](https://img.shields.io/badge/Tool-WebStorm-informational?style=flat&logo=webstorm&color=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-totsu&layout=compact)](https://github.com/e-totsu/github-readme-stats)
-<!--
-**e-totsu/e-totsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 I am working or worked on
+🏢 Saleswizar<br/>
+📐 Totsuii<br/>
+🙊 …
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Contact me through my
+→ [Linkedin](https://www.linkedin.com/in/kamil-sohlich-127653218)<br/>
+→ [FaceBook](https://www.facebook.com/kamil.sohlich.31/)<br/>
+→ [E-mail](mailto:kamilsohlich@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br/>
+→ [Pracuj](https://profil.pracuj.pl)
